@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "singles",
+  "info": {
+    "singularName": "single",
+    "pluralName": "singles",
+    "displayName": "single"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "link": {
+      "type": "string"
+    }
+  }
+}
