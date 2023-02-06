@@ -12,10 +12,10 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "mp3link": {
+    "episodeName": {
       "type": "string"
     },
-    "episodeName": {
+    "mp3link": {
       "type": "string"
     }
   }
